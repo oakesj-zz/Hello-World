@@ -1,2 +1,2 @@
 # Hello-World
-Nube, first-timer, no clue
+Noob, first-timer, no clue
